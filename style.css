@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.head th{
+    padding: 15px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #ea9ac7;
+}
+
+td, tr{
+    padding: 15px;
+    padding-left:  10px;
+    border: 1px solid ;
+}
+
+table {
+    width: 80%;
+  border-collapse: collapse;
+  margin: 30px  auto;
+  border: 1px solid ;
+}
+
+#tr1 th{
+    padding: 5px;
+    text-align: center;
+    background-color: #eea2d2;
+
+}
